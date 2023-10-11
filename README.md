@@ -20,3 +20,12 @@ Clone the repository and run the following commands:
    flutter pub get
    flutter run
    ```
+
+## This link allows you to support me, and I really appreciate your help:
+* [SUPPORT](https://www.buymeacoffee.com/AmirBayat)
+
+## My Socials:
+* [INSTAGRAM](https://www.instagram.com/codewithflexz)
+* [YOUTUBE]( https://www.youtube.com/c/ProgrammingWithFlexZ)
+* [CONTACT ME](https://amirbayat.dev@gmail.com)
+* [FIND MORE](https://zaap.bio/CodeWithFlexz)
