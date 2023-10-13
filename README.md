@@ -3,7 +3,7 @@
 
 CardY is a Flutter-based mobile application designed to help you create and showcase your professional resume in a stylish and user-friendly way.
 ### [Watch on YouTube](https://youtu.be/VZdhPl6oexY)
-![main_cardy](https://github.com/AmirBayat0/CardY_Fluttter-Resume-App/assets/91388754/76d0b325-c02b-4144-9343-167f841cb7a0)
+![maxresdefault](https://github.com/AmirBayat0/CardY_Fluttter-Resume-App/assets/91388754/774bfa3a-4661-4d62-9808-ffd7e2795fdb)
 
 ## Features 🌟
 
